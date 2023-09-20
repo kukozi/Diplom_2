@@ -16,13 +16,13 @@
 An educational project dedicated to a testing of a web-site API
 
 ## Built With
-Java 11
-Maven 3.8.1
-Junit 4.13.2
-Rest Assured 5.2.0
-Gson 2.8.9
-Jackson 2.13.0
-Allure 2.23.1
+Java 11  
+Maven 3.8.1  
+Junit 4.13.2  
+Rest Assured 5.2.0  
+Gson 2.8.9  
+Jackson 2.13.0  
+Allure 2.23.1  
 
 ## HowTo
 Run project:
