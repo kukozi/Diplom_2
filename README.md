@@ -40,8 +40,6 @@ allure serve target/allure-reports/
 <!-- CONTACT -->
 ## Contact
 Telegram: [@kukozi](https://t.me/kukozi)
-</br>
-Project Link: [https://github.com/kukozi/sprint4_scooter](https://github.com/kukozi/sprint4_scooter)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
